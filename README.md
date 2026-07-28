@@ -1,2 +1,2 @@
 # Eruzino1
-First lesson on Github
+First lesson on github
